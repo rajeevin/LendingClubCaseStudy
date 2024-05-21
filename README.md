@@ -74,8 +74,9 @@ The best driving features for the Loan default analysis are:
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+## Team
+Raman Pandey (@RamanPndy)
+Rajeev Ranjan (@rajeevin)
 
 
 <!-- Optional -->
